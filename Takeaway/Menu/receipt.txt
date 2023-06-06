@@ -1,0 +1,6 @@
+(0) Buffalo wings: 3.99, 450 cal (2-4-1)
+(1) Garlic bread: 3.99, 500 cal (2-4-1)
+(2) Buffalo wings: 3.99, 450 cal (2-4-1)
+(3) Garlic bread: 3.99, 500 cal (2-4-1)
+Total: 7.98
+2-4-1 applied. Total saved: 7.98

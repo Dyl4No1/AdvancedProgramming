@@ -1,0 +1,8 @@
+﻿  Menu.cpp
+C:\Users\dylan\source\repos\Takeaway\Menu\Menu\Header\Menu.hpp(139,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dylan\source\repos\Takeaway\Menu\Menu\Header\Menu.hpp(155,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dylan\source\repos\Takeaway\Menu\Menu\Header\Menu.hpp(171,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dylan\source\repos\Takeaway\Menu\Menu\Header\Order.hpp(65,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dylan\source\repos\Takeaway\Menu\Menu\Menu.cpp(73,23): warning C4018: '>': signed/unsigned mismatch
+C:\Users\dylan\source\repos\Takeaway\Menu\Menu\Menu.cpp(107,23): warning C4018: '>': signed/unsigned mismatch
+  Menu.vcxproj -> C:\Users\dylan\source\repos\Takeaway\Menu\Debug\Menu.exe
